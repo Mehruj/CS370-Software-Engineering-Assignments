@@ -16,3 +16,5 @@
 10. There should be no limit to the amount of lists, reminders, reminder types or sub types a user can create.
 11. User must be informed on the initial start of the app that by using the app he agrees not to redistribute and or sell the application.
 12. top right corner of the main activity page should have an info icon that will take the user to FAQ activity which should showcase the user with how to use the app as well as main dev contact information as well as the bug reporting button stated above.
+13. Users and employees can add items to their shopping cart and check them out. 
+14.Application should not have crashes during usage and have reasonable runtime.
